@@ -337,4 +337,7 @@ p {
         cursor: pointer;
         text-decoration: none;
     }
+    ul{
+        margin-left: 25px;
+    }
 }
