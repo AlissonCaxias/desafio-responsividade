@@ -4,6 +4,7 @@
 <p align="center">
   <img src="./assets/Mockup pc_phone.png" width="80%" alt="Mockup do site em PC e smartphone">
 </p>
+<h6 color="yellow" font-size="10">aprox: 125% de zoom para o pc</h6>
 
 ## 💡 Abordagem e Detalhes Técnicos
 
@@ -25,7 +26,9 @@ Ajustei os tamanhos das fontes e elementos, e empilhei o conteúdo que antes fic
 ---
 
 📁 **Visualização:**  
-<br/>  [Clique Aqui](https://alissoncaxias.github.io/desafio-responsividade/)
+[![Visite a Página](https://img.shields.io/badge/Visite%20a%20Página-gray?style=for-the-badge)](https://alissoncaxias.github.io/desafio-responsividade/)
+
+
 
 ---
 
