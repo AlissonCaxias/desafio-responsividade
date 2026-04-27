@@ -24,10 +24,10 @@ Ajustei os tamanhos das fontes e elementos, e empilhei o conteúdo que antes fic
 
 ---
 
-📁 **Como visualizar:**  
+📁 **Visualização:**  
 Basta abrir o arquivo `index.html` no navegador ou acessar o projeto publicado no GitHub Pages.
 
 ---
 
 ✏️ **Autor:** Alisson  
-📅 **Ano:** 2026  
+📅 **Mês/Ano:** 04/2026  
