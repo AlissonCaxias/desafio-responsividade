@@ -1,8 +1,8 @@
 # 🌐 Projeto de Layout Responsivo
 
-## 🖥️ Mockup
+## 🖥️ Preview das Telas
 <p align="center">
-  <img src="Mockup pc_phone.png" width="80%" alt="Mockup do site em PC e smartphone">
+  <img src="./assets/Mockup pc_phone.png" width="80%" alt="Mockup do site em PC e smartphone">
 </p>
 
 ## 💡 Abordagem e Detalhes Técnicos
